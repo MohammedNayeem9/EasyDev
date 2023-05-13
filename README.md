@@ -1,3 +1,16 @@
+<p align="center">
+    <img width="300" src="src/img/logo.png" alt="EasyDev" />
+</p>
+   
+**CodePen** is an online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets. It functions as an online code editor and open-source learning environment, where developers can create code snippets, called "pens," and test them.
+
+### Built With
+* [React JS](https://reactjs.org)
+* [Material UI](https://mui.com/)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
