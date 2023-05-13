@@ -2,7 +2,7 @@
     <img width="300" src="src/img/logo.png" alt="EasyDev" />
 </p>
    
-**CodePen** is an online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets. It functions as an online code editor and open-source learning environment, where developers can create code snippets, called "pens," and test them.
+**EasyDev** is an online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets. It functions as an online code editor and open-source learning environment, where developers can create code snippets, called "pens," and test them.
 
 ### Built With
 * [React JS](https://reactjs.org)
